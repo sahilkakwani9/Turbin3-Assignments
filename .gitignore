@@ -2,3 +2,5 @@ dev-wallet.json
 Turbin3-wallet.json
 node_modules
 yarn.lock
+cargo.lock
+target
